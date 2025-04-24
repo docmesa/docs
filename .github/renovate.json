@@ -1,0 +1,3 @@
+{
+  "extends": ["github>docmesa/renovate-config"]
+}
