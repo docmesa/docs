@@ -1,7 +1,7 @@
 import js from "@eslint/js";
+import eslintPluginAstro from "eslint-plugin-astro";
 import turboPlugin from "eslint-plugin-turbo";
 import tseslint from "typescript-eslint";
-import eslintPluginAstro from "eslint-plugin-astro";
 
 /**
  * @type {import("typescript-eslint").Linter.Config}
