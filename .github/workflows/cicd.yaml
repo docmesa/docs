@@ -31,5 +31,8 @@ jobs:
 
       - run: pnpm i
 
+      - name: sync
+        run: pnpm sync
+
       - name: smoke test
         run: pnpm ci:smoke-test
